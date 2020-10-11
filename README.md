@@ -1,0 +1,2 @@
+# ReportePractica1FP21DiegoEnriqueAtaydeMorales
+Práctica 1 de Fundamentos de Programación
